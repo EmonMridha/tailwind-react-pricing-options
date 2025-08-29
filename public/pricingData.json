@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "price": 25.99,
+    "description": "A smooth and responsive wireless mouse with ergonomic design.",
+    "feature": [
+      "2.4GHz wireless connectivity",
+      "12-month battery life",
+      "Compact and portable design"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard",
+    "price": 89.50,
+    "description": "RGB backlit mechanical keyboard with blue switches for a tactile feel.",
+    "feature": [
+      "Customizable RGB lighting",
+      "104 anti-ghosting keys",
+      "Durable aluminum frame"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Gaming Headset",
+    "price": 59.00,
+    "description": "Comfortable over-ear headset with noise-cancelling microphone.",
+    "feature": [
+      "Surround sound",
+      "Detachable noise-cancelling mic",
+      "Memory foam ear cushions"
+    ]
+  }
+]
